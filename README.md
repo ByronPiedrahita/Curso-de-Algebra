@@ -8,11 +8,7 @@
 - **Ecuación lineal. –** Son aquellas que tiene una sola incógnita y nos describe una línea recta y su grado mayor es 1. 
 - **Ecuaciones: Ecuaciones de primer grado.-**
 - **Ecuaciones de segundo grado o cuadráticas. – **
-<img src="https://render.githubusercontent.com/render/math?math={ax^2} + bx {+} c = 0">
-<img src="https://render.githubusercontent.com/render/math?math=''f''(<var>x</var>) {{=}} <var>x</var><sup>2</sup>">
-{{math|''f''(<var>x</var>) {{=}} <var>x</var><sup>2</sup>}}
-
-{{math|{{radical|2}}}}
+<img src="https://render.githubusercontent.com/render/math?math={ax^2} + {bx} + c = 0">
 
 >Se emplea la transposición donde se pasan los valores al otro lado de signo = cambiando su operación contraria, es decir suma a resta, multiplicación a división, potencia a radicación.
 
