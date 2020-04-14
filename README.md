@@ -7,7 +7,8 @@
 - **Solución. -** Son los valores que al ser sustituidos en la ecuación completando la igualdad.
 - **Ecuación lineal. –** Son aquellas que tiene una sola incógnita y nos describe una línea recta y su grado mayor es 1. 
 - **Ecuaciones: Ecuaciones de primer grado.-**
-- **Ecuaciones de segundo grado o cuadráticas. – ** <math>ax^2+bx+c=0</math>
+- **Ecuaciones de segundo grado o cuadráticas. – ** 
+<img src="https://render.githubusercontent.com/render/math?math=ax^2+bx+c=0">
 
 {{math|''f''(<var>x</var>) {{=}} <var>x</var><sup>2</sup>}}
 
