@@ -9,7 +9,7 @@
 - **Ecuaciones: Ecuaciones de primer grado.-**
 - **Ecuaciones de segundo grado o cuadráticas. – **
 <img src="https://render.githubusercontent.com/render/math?math={ax^2} + bx {+} c = 0">
-
+<img src="https://render.githubusercontent.com/render/math?math=''f''(<var>x</var>) {{=}} <var>x</var><sup>2</sup>">
 {{math|''f''(<var>x</var>) {{=}} <var>x</var><sup>2</sup>}}
 
 {{math|{{radical|2}}}}
