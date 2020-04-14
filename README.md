@@ -66,7 +66,7 @@ El discriminante nos sirve porque nos ahorra al decirnos rápido si una ecuació
 La fórmula general es la mejor herramienta para no cometer errores y aunque puede resultar enredada podremos aprenderla después de un tiempo. Nos sirve para encontrar las raíces o soluciones a nuestras ecuaciones cuadráticas (de segundo grado).
 Podemos resolver todas las ecuaciones cuadráticas usando la fórmula general o por medio de factorización con trinomios cuadrados.
 
-<img src="https://render.githubusercontent.com/render/math?math=x=\frac{-b\pm\sqrt{b^2 - 4 a c}}{2a}">
+#<img src="https://render.githubusercontent.com/render/math?math=x=\frac{-b\pm\sqrt{b^2 - 4 a c}}{2a}">
 
 No hay relación entre el número de soluciones de la ecuación y el tipo de ecuación (completa o incompleta).
 
@@ -83,6 +83,7 @@ Una ecuación cuadrática es incompleta cuando uno o los dos coeficientes b y c 
 Cuando se tiene que el término independiente es igual a 0, se resuelve fácilmente con factorización por término común. Cuando obtenemos los dos factores es sólo cuestión de igualar cada uno a 0 para hallar las X.
 - Si b = 0 y c diferente 0, la ecuación tiene la forma         ax^2 + c  = 0
 Cuando no tenemos término lineal, solucionamos hallando x con la fórmula de más menos raíz cuadrada de menos c sobre a; donde c es nuestro término independiente y a es el coeficiente de nuestra variable elevada al cuadrado.
-Los símbolos ± y 6= se indican con las marcas \pm (de plus-minus) y \neq (de not equal),respectivamente
+
+
 $x=\pm\sqrt{\fra{-c}{a}}$
 
