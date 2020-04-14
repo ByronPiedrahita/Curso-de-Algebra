@@ -8,6 +8,7 @@
 - **Ecuación lineal. –** Son aquellas que tiene una sola incógnita y nos describe una línea recta y su grado mayor es 1. 
 - **Ecuaciones: Ecuaciones de primer grado.-**
 - **Ecuaciones de segundo grado o cuadráticas. –**
+
 <img src="https://render.githubusercontent.com/render/math?math=ax^2"> + bx + c = 0
 
 >Se emplea la transposición donde se pasan los valores al otro lado de signo = cambiando su operación contraria, es decir suma a resta, multiplicación a división, potencia a radicación.
@@ -66,7 +67,7 @@ El discriminante nos sirve porque nos ahorra al decirnos rápido si una ecuació
 La fórmula general es la mejor herramienta para no cometer errores y aunque puede resultar enredada podremos aprenderla después de un tiempo. Nos sirve para encontrar las raíces o soluciones a nuestras ecuaciones cuadráticas (de segundo grado).
 Podemos resolver todas las ecuaciones cuadráticas usando la fórmula general o por medio de factorización con trinomios cuadrados.
 
-#<img src="https://render.githubusercontent.com/render/math?math=x=\frac{-b\pm\sqrt{b^2 - 4 a c}}{2a}">
+<img src="https://render.githubusercontent.com/render/math?math=x=\frac{-b\pm\sqrt{b^2 - 4 a c}}{2a}">
 
 No hay relación entre el número de soluciones de la ecuación y el tipo de ecuación (completa o incompleta).
 
@@ -76,14 +77,12 @@ Si b, c≠0, se dice que la ecuación es completa y sus soluciones las proporcio
 
 ## Ecuaciones incompletas de segundo grado: Tipo 1
 Una ecuación cuadrática es incompleta cuando uno o los dos coeficientes b y c son 0
-- Si b = 0 y c = 0, la ecuación tiene la forma                     ax^2 = 0 x siempre será 0
+- Si b = 0 y c = 0, la ecuación tiene la forma                     <img src="https://render.githubusercontent.com/render/math?math=ax^2"> = 0 x siempre será 0
 
 ## Ecuaciones incompletas de segundo grado: Tipo 2 y 3
-- Si b diferente 0 y c = 0, la ecuación tiene la forma         ax^2 +bx = 0
+- Si b diferente 0 y c = 0, la ecuación tiene la forma         <img src="https://render.githubusercontent.com/render/math?math=ax^2"> +bx = 0
 Cuando se tiene que el término independiente es igual a 0, se resuelve fácilmente con factorización por término común. Cuando obtenemos los dos factores es sólo cuestión de igualar cada uno a 0 para hallar las X.
-- Si b = 0 y c diferente 0, la ecuación tiene la forma         ax^2 + c  = 0
+- Si b = 0 y c diferente 0, la ecuación tiene la forma         <img src="https://render.githubusercontent.com/render/math?math=ax^2"> + c  = 0
 Cuando no tenemos término lineal, solucionamos hallando x con la fórmula de más menos raíz cuadrada de menos c sobre a; donde c es nuestro término independiente y a es el coeficiente de nuestra variable elevada al cuadrado.
 
-
-$x=\pm\sqrt{\fra{-c}{a}}$
-
+<img src="https://render.githubusercontent.com/render/math?math=x=\pm\sqrt{\fra{-c}{a}}">
