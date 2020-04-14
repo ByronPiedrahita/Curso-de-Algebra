@@ -85,4 +85,4 @@ Cuando se tiene que el término independiente es igual a 0, se resuelve fácilme
 - Si b = 0 y c diferente 0, la ecuación tiene la forma         <img src="https://render.githubusercontent.com/render/math?math=ax^2"> + c  = 0
 Cuando no tenemos término lineal, solucionamos hallando x con la fórmula de más menos raíz cuadrada de menos c sobre a; donde c es nuestro término independiente y a es el coeficiente de nuestra variable elevada al cuadrado.
 
-<img src="https://render.githubusercontent.com/render/math?math=x=\pm\sqrt\fra{-c}{a}">
+<img src="https://render.githubusercontent.com/render/math?math=x=\pm\sqrt\frac{-c}{a}">
