@@ -66,7 +66,7 @@ El discriminante nos sirve porque nos ahorra al decirnos rápido si una ecuació
 La fórmula general es la mejor herramienta para no cometer errores y aunque puede resultar enredada podremos aprenderla después de un tiempo. Nos sirve para encontrar las raíces o soluciones a nuestras ecuaciones cuadráticas (de segundo grado).
 Podemos resolver todas las ecuaciones cuadráticas usando la fórmula general o por medio de factorización con trinomios cuadrados.
 
-<img src="https://render.githubusercontent.com/render/math?math=x=\frac{-b\pm\sqrt{bˆ2-4 a c}}{2a}">
+<img src="https://render.githubusercontent.com/render/math?math=x=\frac{-b\pm\sqrt{bˆ2 - 4 a c}}{2a}">
 
 No hay relación entre el número de soluciones de la ecuación y el tipo de ecuación (completa o incompleta).
 
