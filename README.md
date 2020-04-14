@@ -7,7 +7,7 @@
 - **Solución. -** Son los valores que al ser sustituidos en la ecuación completando la igualdad.
 - **Ecuación lineal. –** Son aquellas que tiene una sola incógnita y nos describe una línea recta y su grado mayor es 1. 
 - **Ecuaciones: Ecuaciones de primer grado.-**
-- **Ecuaciones de segundo grado o cuadráticas. – **
+- **Ecuaciones de segundo grado o cuadráticas. –**
 <img src="https://render.githubusercontent.com/render/math?math=ax^2"> + bx + c = 0
 
 >Se emplea la transposición donde se pasan los valores al otro lado de signo = cambiando su operación contraria, es decir suma a resta, multiplicación a división, potencia a radicación.
@@ -66,7 +66,7 @@ El discriminante nos sirve porque nos ahorra al decirnos rápido si una ecuació
 La fórmula general es la mejor herramienta para no cometer errores y aunque puede resultar enredada podremos aprenderla después de un tiempo. Nos sirve para encontrar las raíces o soluciones a nuestras ecuaciones cuadráticas (de segundo grado).
 Podemos resolver todas las ecuaciones cuadráticas usando la fórmula general o por medio de factorización con trinomios cuadrados.
 
-$$x=\frac{-b\pm\sqrt{bˆ2-4 a c}}{2a}.$$
+<img src="https://render.githubusercontent.com/render/math?math=x=\frac{-b\pm\sqrt{bˆ2-4 a c}}{2a}">
 
 No hay relación entre el número de soluciones de la ecuación y el tipo de ecuación (completa o incompleta).
 
