@@ -3,11 +3,11 @@
 - **Constantes. -** Son aquellas que no cambian nunca su valor son fijas como pi, números; coeficientes expresadas como las letras a, b, etc.
 - **Miembros. -** Son dos y están separados por el signo =, siendo una igualdad.
 - **Términos. -** Cada uno de los elementos que están separados por un signo.
-- ** Grado. -** Es el exponente de mayor valor si se tienen varias variables se suman sus exponentes para obtener el grado.
-- ** Solución. -** Son los valores que al ser sustituidos en la ecuación completando la igualdad.
+- **Grado. -** Es el exponente de mayor valor si se tienen varias variables se suman sus exponentes para obtener el grado.
+- **Solución. -** Son los valores que al ser sustituidos en la ecuación completando la igualdad.
 - **Ecuación lineal. –** Son aquellas que tiene una sola incógnita y nos describe una línea recta y su grado mayor es 1. 
 - **Ecuaciones: Ecuaciones de primer grado.-**
-- **Ecuaciones de segundo grado o cuadráticas. – **<math>ax^2+bx+c=0</math>
+- **Ecuaciones de segundo grado o cuadráticas. – ** <math>ax^2+bx+c=0</math>
 
 {{math|''f''(<var>x</var>) {{=}} <var>x</var><sup>2</sup>}}
 
@@ -87,5 +87,5 @@ Cuando se tiene que el término independiente es igual a 0, se resuelve fácilme
 - Si b = 0 y c diferente 0, la ecuación tiene la forma         ax^2 + c  = 0
 Cuando no tenemos término lineal, solucionamos hallando x con la fórmula de más menos raíz cuadrada de menos c sobre a; donde c es nuestro término independiente y a es el coeficiente de nuestra variable elevada al cuadrado.
 Los símbolos ± y 6= se indican con las marcas \pm (de plus-minus) y \neq (de not equal),respectivamente
-$$x=\pm\sqrt{\fra{-c}{a}}$$
+$x=\pm\sqrt{\fra{-c}{a}}$
 
